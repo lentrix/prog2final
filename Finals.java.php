@@ -26,13 +26,25 @@
 23         s3.addSubject(collOr);
 24         
 25         
-26         System.<span class="ST2">out</span>.println(s1);
-27         System.<span class="ST2">out</span>.println(s2);
-28         System.<span class="ST2">out</span>.println(s3);
+26         System.<span class="ST2">out</span>.println(s1); //What is the output for this line? <input type="text" autocomplete="off" name="ans[41]" class="ans long" placeholder="Blank 41" />
+27         System.<span class="ST2">out</span>.println(s2); //What is the output for this line? <input type="text" autocomplete="off" name="ans[42]" class="ans long" placeholder="Blank 42" />
+28         System.<span class="ST2">out</span>.println(s3); //What is the output for this line? <input type="text" autocomplete="off" name="ans[43]" class="ans long" placeholder="Blank 43" />
 29         
 30         
 31     }
 32     
 33 }
 34 
+
+Suppose at line 
+24         collOr.setGrade(95);
+25         System.<span class="ST2">out</span>.println(s3.getAverageScore());  
+           // What is the output at line 25? <input type="text" autocomplete="off" name="ans[44]" class="ans long" placeholder="Blank 44" />
+
+What is the value of collOr.getCourse() if placed at line 21? <input type="text" autocomplete="off" name="ans[45]" class="ans" placeholder="Blank 45" />
+What is s2.getAverageScore()? <input type="text" autocomplete="off" name="ans[46]" class="ans" placeholder="Blank 46" />
+What is s1.getSubjects().get(0).getGrade()? <input type="text" autocomplete="off" name="ans[47]" class="ans" placeholder="Blank 47" />
+What is s3.getSubjects().get(0).getGrade()? <input type="text" autocomplete="off" name="ans[48]" class="ans" placeholder="Blank 48" />
+What is s3.getSubjects().size()? <input type="text" autocomplete="off" name="ans[49]" class="ans" placeholder="Blank 49" />
+What is s2.getSubjects().get(1).toString()? <input type="text" autocomplete="off" name="ans[50]" class="ans" placeholder="Blank 50" />
 </pre>
